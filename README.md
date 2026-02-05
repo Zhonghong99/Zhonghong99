@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin%20%26%20Malay-gold" alt="Languages: English & Hindi" />
 </p>
 
+<!-- comment out
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Zhonghong99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhonghong99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 # About Me:
 I’m a Data Analyst based in KL, Malaysia — on a mission to level up into a Data Scientist.<br>I don’t just take courses; I build. Projects + Coursera are my gym.<br>Experience across video gaming and crypto industries.<br>When I’m off the keyboard, I’m diving into Western and Eastern ancient wisdom, learning from the great minds to figure out how to live better, not just work harder.
